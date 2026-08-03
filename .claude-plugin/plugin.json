@@ -1,0 +1,19 @@
+{
+  "name": "writing-well",
+  "description": "William Zinsser 『On Writing Well』의 방법론으로 산문을 쓰고 고치는 스킬 + 서브에이전트. 재료 게이트(없는 숫자·인용을 지어내지 않는다) → 쓰기 전 6개 결정 → 글의 모양 → 3회 다시 쓰기. 에세이·리포트·회고·서평·제안서·릴리스 노트·PR 설명 등 사람이 읽을 산문이 산출물일 때.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Okmin Lee"
+  },
+  "homepage": "https://github.com/OkminLee/writing-well",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "prose",
+    "editing",
+    "rewriting",
+    "korean",
+    "zinsser",
+    "on-writing-well"
+  ]
+}

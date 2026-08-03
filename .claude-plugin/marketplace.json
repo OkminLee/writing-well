@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "writing-well",
+  "description": "『On Writing Well』의 방법으로 산문을 쓰고 고치는 Claude Code 스킬 + 서브에이전트.",
+  "owner": {
+    "name": "Okmin Lee"
+  },
+  "plugins": [
+    {
+      "name": "writing-well",
+      "source": "./",
+      "skills": ["./skills/writing-well"],
+      "agents": ["./agents/writing-well.md"],
+      "description": "사람이 읽을 산문을 쓰거나 고칠 때. 재료 게이트 → 쓰기 전 6개 결정 → 글의 모양 → 3회 다시 쓰기.",
+      "category": "productivity"
+    }
+  ]
+}
